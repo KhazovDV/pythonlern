@@ -1,7 +1,6 @@
 pin = 1234
 print("pleas enter your pincode")
 user_pin = int(input())
-#oikjpiok
 if pin==user_pin:
     print("how much do you want to withdraw")
 else:
